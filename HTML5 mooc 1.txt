@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sở Thích Của Tôi</title>
+</head>
+<body>
+    <main>
+        <h1>Chào mừng đến với Trang Sở Thích Của Tôi</h1>
+
+        <section>
+            <h2>Đọc Sách</h2>
+            <p>Tôi rất thích đọc sách trong thời gian rảnh. Việc đọc sách không chỉ giúp tôi mở rộng kiến thức mà còn là một cách tuyệt vời để thư giãn và khám phá những thế giới mới.</p>
+            <figure>
+                <img src="https://img.lovepik.com/bg/20240103/Colorful-Book-Stacks-on-Table-A-Vibrant-Display-of-Stacked_2676129_wh860.jpg" alt="Một chồng sách.">
+                <figcaption>Sách là kho tàng tri thức vô tận của nhân loại.</figcaption>
+            </figure>
+        </section>
+
+        <section>
+            <h2>Du Lịch Khám Phá</h2>
+            <p>Du lịch là một niềm đam mê lớn khác của tôi. Tôi thích khám phá những vùng đất mới, tìm hiểu về các nền văn hóa khác nhau và thưởng ngoạn vẻ đẹp của thiên nhiên cũng như các công trình kiến trúc độc đáo.</p>
+            <figure>
+                <img src="https://t2.ex-cdn.com/crystalbay.com/resize/1860x570/files/news/2024/06/04/cam-nang-du-lich-ha-giang-moi-nhat-kham-pha-canh-dep-nui-non-hung-vi-noi-dia-dau-to-quoc-143945.jpg" alt="Phong cảnh núi non hùng vĩ.">
+                <figcaption>Một chuyến đi khám phá vẻ đẹp hùng vĩ của thiên nhiên.</figcaption>
+            </figure>
+        </section>
+
+        <section>
+            <h2>Nhiếp Ảnh</h2>
+            <p>Ghi lại những khoảnh khắc đẹp trong cuộc sống qua ống kính máy ảnh là một sở thích thú vị. Tôi thường chụp ảnh phong cảnh, chân dung đời thường và những chi tiết nhỏ bé nhưng ý nghĩa xung quanh mình.</p>
+            <figure>
+                <img src="https://i1.wp.com/reviewmayanh.com/wp-content/uploads/2021/07/may-anh-phim-zshop.jpg?fit=1024%2C679&ssl=1" alt="Một chiếc máy ảnh.">
+                <figcaption>Máy ảnh là người bạn đồng hành ghi lại mọi khoảnh khắc đáng nhớ.</figcaption>
+            </figure>
+        </section>
+
+        <section>
+            <h2>Danh Sách Yêu Thích</h2>
+            <p>Dưới đây là một vài điều tôi đặc biệt yêu thích liên quan đến các sở thích của mình:</p>
+            <ul>
+                <li><strong>Thể loại sách:</strong> Khoa học viễn tưởng, Lịch sử thế giới, Tiểu thuyết trinh thám.</li>
+                <li><strong>Điểm đến mơ ước:</strong> Kyoto (Nhật Bản), Iceland, Patagonia (Nam Mỹ).</li>
+                <li><strong>Đối tượng chụp ảnh:</strong> Khoảnh khắc bình minh và hoàng hôn, Kiến trúc cổ kính, Động vật hoang dã.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Liên Kết Hữu Ích</h2>
+            <p>Nếu bạn cũng yêu thích nhiếp ảnh và muốn tìm kiếm nguồn cảm hứng hoặc những bức ảnh đẹp, chất lượng cao, bạn có thể tham khảo trang web sau:</p>
+            <p><a href="https://unsplash.com/" target="_blank" rel="noopener noreferrer">Unsplash - Kho ảnh miễn phí chất lượng cao</a></p>
+            <p>Chúc bạn có những trải nghiệm thú vị khi khám phá trang web này!</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Trang web cá nhân. Được tạo để minh họa.</p>
+    </footer>
+</body>
+</html>
